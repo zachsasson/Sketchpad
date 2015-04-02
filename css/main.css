@@ -1,0 +1,32 @@
+#container	{
+	margin:		0px auto;
+	width:		960px;
+	}
+	
+.block	{
+	height:				25px;
+	width:				25px;
+	background-color:	#B2B2B2;
+	float:				right;
+	margin:				5px;
+	display:			inline-block;
+	}
+	
+.block_light	{
+	background-color:	#D8D8D8;
+	height:				50px;
+	width:				50px;
+	float:				right;
+	margin:				5px;
+	display:			inline-block;
+	}
+	
+#reset	{
+	margin:				5px auto;
+	display:			block;
+	}
+	
+#header {
+	font-family:		arial;
+	text-align:			center;
+	}
